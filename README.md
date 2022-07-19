@@ -1,4 +1,4 @@
-<img align="right" height="490em" src="https://github.com/gregory6z/todoList/blob/main/github-card.png?raw=true"/>
+<img align="right" height="490em" src="https://raw.githubusercontent.com/gregory6z/gregory6z/main/git.png"/>
 <h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gregory PRAXEDES</h1>
 
 
